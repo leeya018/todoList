@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.header > div {
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  background-image: url('https://lh3.googleusercontent.com/-48vLRXxCn6U/AAAAAAAAAAI/AAAAAAAAAAA/AA6ZPT7S5uN-8zbv9Fx0qGVWpDITSQf3Rg/s64-c-mo/photo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.add-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  height: 2em;
+  background-color: blue;
+  color: white;
+  border-radius: 25px;
+  width: 9em;
+}
+
+.fa {
+  padding: 0 13px 0 11px;
+}

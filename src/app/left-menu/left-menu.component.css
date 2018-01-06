@@ -1,0 +1,19 @@
+.left-menu {
+  color: white;
+  padding-left: 5px;
+}
+
+ul {
+  padding-left: 0;
+
+  list-style-type: none;
+}
+li {
+  padding-top: 3em;
+  display: flex;
+}
+
+.fa {
+  color: blue;
+  padding: 0 13px 0 11px;
+}
